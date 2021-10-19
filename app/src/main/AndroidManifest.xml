@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DoggyOut">
         <activity
+            android:name=".HomePage"
+            android:exported="true" />
+        <activity
             android:name=".RegisterPage"
             android:exported="true" />
         <activity

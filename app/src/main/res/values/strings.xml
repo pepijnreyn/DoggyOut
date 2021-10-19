@@ -10,4 +10,5 @@
     <string name="regAddressHint">Address</string>
     <string name="regPhoneHint">Phone number</string>
     <string name="regDateHint">Birthdate</string>
+    <string name="HomeLoginButton">hoi</string>
 </resources>
