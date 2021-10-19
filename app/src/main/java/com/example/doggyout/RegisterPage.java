@@ -92,7 +92,7 @@ public class RegisterPage extends AppCompatActivity {
                 }){
                     @Override
                     protected Map<String, String> getParams() throws AuthFailureError {
-                        Map <String,String> Params = new HashMap<String, String>();
+                        Map <String,String, String> Params = new HashMap<String, String, String>();
                         Params.put("email",email);
                         Params.put("password",password);
                         Params.put("first_name",first_name);
