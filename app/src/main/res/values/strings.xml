@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoggyOut</string>
+    <string name="BeginPageText">DoggyOut</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="regNameHint">Name</string>
+    <string name="regPassHint">Password</string>
+    <string name="regEmailHint">Email</string>
+    <string name="regAddressHint">Address</string>
+    <string name="regPhoneHint">Phone number</string>
+    <string name="regDateHint">Birthdate</string>
+</resources>
